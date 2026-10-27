@@ -1,0 +1,5 @@
+
+rootProject.name = 'SpringBootForKafka'
+
+include 'provider-service'
+include 'consumer-service'
